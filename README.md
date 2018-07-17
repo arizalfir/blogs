@@ -1,0 +1,2 @@
+# blogs
+untuk blog saya
